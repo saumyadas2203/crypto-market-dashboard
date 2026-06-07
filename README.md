@@ -1,25 +1,13 @@
-# Crypto Market Dashboard
+# Cryptoverse - Explore the World of Cryptocurrency
 
-## Overview
+![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-Crypto Market Dashboard is a comprehensive cryptocurrency intelligence platform built to transform real-time market data into meaningful insights. The application enables users to explore digital assets, monitor price movements, analyze market trends, and visualize key performance indicators through an interactive and user-friendly interface.
+### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-By integrating live market data with dynamic analytics, the platform simplifies complex cryptocurrency information and supports data-driven decision-making for both beginners and market enthusiasts.
+## Introduction
+This is a code repository for the corresponding video tutorial. 
 
-Designed with scalability and usability in mind, this project demonstrates the integration of modern frontend technologies, API-driven architecture, and data visualization techniques to deliver an engaging analytical experience.
+In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
-## Features
-
-- Real-time cryptocurrency market tracking
-- Interactive data visualization
-- Search and filtering functionality
-- Market trend analysis
-- Responsive user interface
-- API-driven data integration
-
-## Tech Stack
-
-- React.js
-- JavaScript
-- REST APIs
-- CSS
+By the end of this video, you will become the master of working with APIs.
